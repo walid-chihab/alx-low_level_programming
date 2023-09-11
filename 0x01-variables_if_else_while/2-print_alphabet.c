@@ -19,4 +19,4 @@ int x = 'A';
 	putchar('\n');
 	}
 	return (0);
-
+}
