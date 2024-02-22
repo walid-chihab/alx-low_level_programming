@@ -1,0 +1,8 @@
+#include <stdio.h>
+#include <stdlib.h>
+int main (){
+int n;
+	printf ("bonjour est tu peut me entrer un nombre\n");
+	scanf ("%d",&n);
+return 0;
+}
